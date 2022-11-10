@@ -1,0 +1,48 @@
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+.texto-azul {
+    color: #242f51
+}
+
+#titulo-inicio {
+font-size: 80px;
+}
+
+.texto-cinza {
+    color: #616368
+}
+
+#subtitulo-inicio {
+    font-size: 20px;
+}
+
+.botao-azul {
+    padding: 12px 25px  !important;
+    background-color: #2500f9;
+    border: none;
+    border-radius: 25px;
+    color: #fff;
+}
+.botao-azul:hover {
+    padding: 12px 25px;
+    background-color: #f17007;
+    border: none;
+    border-radius: 25px;
+    color: #fff;
+}
+.botao-branco {
+    padding: 12px 20px;
+    background-color: #fff;
+    border: none;
+    border-radius: 25px;
+    color: #2500f9;
+}
+
+#inicio {
+    background-image: url('../img/Vector_Smart_Object2.png'), url('../img/Layer_5.png');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: contain;
+}

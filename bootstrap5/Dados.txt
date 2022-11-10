@@ -1,0 +1,6 @@
+Fonte: https://fonts.google.com/specimen/Poppins
+
+Azul: 2500f9
+Azul escuro: 242f51
+cinza: 616368
+laranja: fcae61
