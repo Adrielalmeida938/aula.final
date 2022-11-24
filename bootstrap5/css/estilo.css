@@ -46,3 +46,78 @@ font-size: 80px;
     background-position: bottom;
     background-size: contain;
 }
+.texto-negrito{
+    font-weight: bold;
+}
+.motivos-item {
+    padding: 20px;
+}
+
+#segunda {
+    padding: 100px;
+}
+
+.terceira{
+    padding: 100px;
+}
+
+.quarta{
+    padding: 100px 0; 
+}
+
+.accordion-button{
+    background-color: rgb(136, 177, 238);
+}
+accordion.button:not(.collapsed){
+background-color: rgb(136, 177, 238);
+color:  rgb(136, 177, 238);
+font-weight: bold;
+}
+accordion-body {
+    background-color: #f5f6fa;
+    color: #616368;
+    padding: 20px 50px;
+}
+accordion-item{
+    margin-top: 15px;
+    border: none;
+}
+
+#quinta {
+    padding-top: 100px;
+}
+.coluna-deslocada{
+    margin-top: -40px;
+}
+#rodape {
+    padding-top: 100px;
+    padding-bottom: 150px;
+    background-color: #242f51;
+    margin-top: -40px;
+}
+#menu-rodape li{
+    display: inline-block;
+    color: #fff;
+    padding: 0 25px;
+    
+}
+#menu-rodape {
+    margin-top: 30px;
+}
+#marcas {
+    margin-top: 30px;
+    margin-left: -25px;
+}
+#marcas li{
+    display: inline-block;
+    color: #616368;
+    font-size: 40px;
+    padding: 0 25px;
+}
+#marcas li:hover{
+    color: #fff;
+}
+.direitos{
+    color: #616368;
+    margin-top: 50px;
+}
